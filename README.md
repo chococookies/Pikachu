@@ -21,3 +21,4 @@ Future:
 - Expand for multi-person teams
 - Mutltithreaded, object oriented design
 - Account for tardiness
+- Add command line arguments as opposed to python variable editing
