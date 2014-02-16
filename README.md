@@ -1,4 +1,4 @@
 Pikachu
 =======
 
-Pikachu automated grader (University of Texas-CS)
+Pikachu automated grader (for University of Texas-CS, Downing assignments)
